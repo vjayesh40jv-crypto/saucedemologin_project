@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","test_add","tests","2026-10-19","failed","2026-10-19","","test_add","",""
+"","5553","test","tests","2026-10-19","passed","2026-10-19","","test_cart","",""
+"","0","test_multiply","tests","2026-10-19","failed","2026-10-19","","test_add","",""
+"","7521","test","tests","2026-10-19","failed","2026-10-19","","test_login","",""
+"","0","test_subtract","tests","2026-10-19","passed","2026-10-19","","test_add","",""
